@@ -6,6 +6,7 @@ senha_correta = "2024"
 for usuario in usuarios:
     for senha in senhas:
         if senha == senha_correta:
-            print(usuario, "- acesso liberado")
+            print(f"{usuario} - acesso liberado")
+            break
         else:
-            print(usuario, "- acesso negado")
+            print(f"{usuario} - acesso negado")
