@@ -1,6 +1,7 @@
-# projeto-brute-force
+# 🔐 Simulação de Ataque de Força Bruta
 
-# Simulação de Ataque de Força Bruta
+Projeto desenvolvido para demonstrar na prática como funcionam ataques de força bruta e como se proteger contra eles.
+# projeto-brute-force
 
 ## Introdução
 ...
@@ -22,3 +23,7 @@
 
 ## Conclusão
 ...
+## Tecnologias utilizadas
+
+- Python
+- GitHub
